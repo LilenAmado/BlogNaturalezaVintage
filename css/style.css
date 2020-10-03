@@ -288,7 +288,7 @@ textarea{
         padding-left: 0px;
     }
     #global{
-        width: 87%;
+        width: 84%;
     }
 }
 @media (max-width:591px){
@@ -310,6 +310,9 @@ textarea{
     #box {
         width: 100%;
         margin:0;
+    }
+    #global {
+        width: 75%;
     }
 }
 @media (max-width:465px){
