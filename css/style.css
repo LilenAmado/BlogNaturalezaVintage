@@ -248,3 +248,69 @@ textarea{
     display: block;
     margin-top: 7px;
 }
+@media (max-width:809px){
+    #sidebar {
+        width: 50%;
+        float: none;
+        margin: 0 auto;
+    }
+    #posts {
+        width: 98%;
+        float: none;
+    }
+    #menu ul li {
+        display: block;
+    }
+    #sidebar {
+        width: 77%;
+    }
+    /*#sidebar img {
+        margin-top: 80px;
+    }*/
+    #reloj{
+        margin-bottom: 20px;
+    }
+    #box {
+        width: 80%;
+        margin: 0 10%;
+    }
+    #box h2 {
+        margin-top: 4px;
+        text-align: center;
+    }
+    #sidebar h4 span {
+        display: none;
+    }
+    #sidebar img {
+        margin-top: 20px;
+    }
+    #form_contact {
+        padding-left: 0px;
+    }
+}
+@media (max-width:591px){
+    #logo {
+        width: 100%;
+    }
+    h1{
+        font-size: 25px;
+    }
+    .subir{
+        float:none;
+    }
+    #sidebar {
+        width: 100%;
+    }
+    #slider{
+        display: none;
+    }
+    #box {
+        width: 100%;
+        margin:0;
+    }
+}
+@media (max-width:465px){
+    footer{
+        height: 100px;
+    }
+}
