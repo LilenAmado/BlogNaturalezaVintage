@@ -287,6 +287,9 @@ textarea{
     #form_contact {
         padding-left: 0px;
     }
+    #global{
+        width: 87%;
+    }
 }
 @media (max-width:591px){
     #logo {
